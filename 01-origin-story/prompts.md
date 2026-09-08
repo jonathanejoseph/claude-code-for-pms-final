@@ -24,6 +24,20 @@ built from your own questions.
 
 ### 1.
 
+i just joined Rook Industries as PM for Rook Dispatch. Ready everything in the folder and add to the CLAUDE.md at the root of this folder, what you'd need to know to help me do my job here: the products, the people, the vocabulary, where things stand. Leave the session scope block at the top. Keep it under two pages.
+
 ### 2.
 
+dig into the numbers further
+
 ### 3.
+
+What's contradictory or missing, not just in the company documents, but across everything in 00-rook?
+
+### 4.
+
+give me a 1 page executive summary on this
+
+### 5.
+
+Before we wrap up, two things. First: look back through this session and find the prompts I wrote myself, not the starter I pasted. Save them into 01-origin-story/prompts.md, one per numbered slot, exactly as I typed them. Don't tidy them up. Second: add a few lines to the Working context in Claude.md, anything we figured out today that isn't in there yet and that i'd want you to already know next session.
