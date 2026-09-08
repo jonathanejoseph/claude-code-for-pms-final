@@ -1,0 +1,46 @@
+Recorded call — console redesign research
+Interviewer: Sofia Marino, Product Design
+Participant: Dorothy Pell ("Aunt Dot"), handler for Vesper
+3 September 2026, 41 minutes (transcript excerpt)
+
+SOFIA: Hi Dot, thanks so much for squeezing this in — I know nights are your busy time.
+
+DOT: Oh, don't be silly, I've got twenty minutes before I need to think about starting anything for him to eat when he gets in, so this is perfect timing actually. Ask away.
+
+SOFIA: Let's start with your setup. Where do you actually work from?
+
+DOT: The kitchen counter, believe it or not. I know that's not what you expected to hear. I tried the desk in the spare room for about a month and I hated it, too far from everything, so now the laptop just lives on the counter next to the toaster and I do the console from there, standing up half the time. He thinks it's funny. I think it's practical — I'm making his dinner anyway most nights he's home, so I might as well be watching the board while I do it.
+
+SOFIA: I actually love that, that's such a real way to use it. Does the layout work for you standing up, glancing at it between other things?
+
+DOT: Mostly, yes. The one thing I'll say — and tell me if this is silly — the text is small enough that from a normal standing distance I sometimes can't tell if something's changed unless I lean right in, and leaning right in with wet hands over a laptop is not something I recommend to anyone. I've thought about getting reading glasses just for this. I haven't yet. I probably should.
+
+SOFIA: Not silly at all, that's really useful, someone else mentioned something similar. What about the notifications — do you get a sound, a banner, anything when something comes in for him?
+
+DOT: A little chime, and it's a good chime, I don't mind it. But here's the thing I actually wanted to tell you about, if you don't mind me going a bit sideways.
+
+SOFIA: Please, go sideways, that's exactly what I'm here for.
+
+DOT: Well — it's his phone that matters more than my laptop, in the end, because he's the one who has to actually say yes to something, and half the time when it comes in he's not even downstairs. He'll be up doing whatever he does up there, and I'll hear it buzz on the counter before he does, and I'll shout up, and he comes down the stairs two at a time, and by the time he's actually got a thumb on the screen — it's gone. Gone to somebody else already. And he just sort of stands there in the kitchen holding the phone.
+
+SOFIA: That sounds really frustrating to watch, let alone for him to go through. How often would you say that's happening?
+
+DOT: More than it used to, I'll say that. It didn't used to feel like a fair race, phone to stairs, and now it does, and he loses it more than he wins it. I've started telling him to just leave the phone in his pocket all evening instead of upstairs, which he thinks is me being overbearing, but I notice things, that's all.
+
+SOFIA: That's a really vivid way to put it, thank you — the fairness of the race, I mean. Can I ask — has there been anything on the other side, weeks where it feels too quiet rather than too fast?
+
+DOT: [pause] Now that you mention it — yes, actually, there have been stretches, more than one, where the phone just sits there and sits there and I end up cooking for someone who's home all week instead of half of it, which honestly I don't mind, I like having him at the table. I hadn't really put those two things next to each other before, the quiet weeks and the fast-vanishing ones. I just cook for whatever week I'm in.
+
+SOFIA: That's a helpful thing to hear, even loosely. Do the quiet weeks worry you?
+
+DOT: A little, yes, if I'm honest, more for him than for the software. He gets restless if he's home too long, doesn't say so but I can tell, he starts reorganizing the garage, and that's always the sign. But I couldn't tell you why it happens, quiet week or a fast week, I just notice the pattern in how much I'm cooking. I'm not trying to tell you your business.
+
+SOFIA: You're not at all, this is genuinely exactly what I want to hear, patterns and all. Last question — if there were one thing about the console you'd want changed, what would it be?
+
+DOT: Bigger text, like I said, and — this is silly — maybe something that tells me too, not just him, when something's come in, so I'm not relying on hearing a buzz through a ceiling. I don't need to do anything about it. I'd just like to know.
+
+SOFIA: That's not silly at all, that's really useful. Thank you so much for this, Dot, truly.
+
+DOT: Anytime, love. Go easy on him if you ever meet him, he's a good boy, he just doesn't eat enough.
+
+[END OF EXCERPT]

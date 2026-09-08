@@ -1,0 +1,7 @@
+Ticket #: T-002
+Filed by: Yusuf Demir (handler)
+Responder: Corporal Ashgrove
+Date: 14 August 2026
+Severity: Low (assigned by filer)
+
+Corporal Ashgrove's phone hasn't gone off in six days, which is unusual for him — he's normally one of our busier responders. I checked his availability settings myself and everything looks set to available, capability tags all present, nothing obviously wrong on our end. Just flagging in case something's off on yours. Not urgent, he's not complaining, just noticed the gap.

@@ -1,0 +1,39 @@
+Requisition Approval Chains — one-pager
+Product, Supply
+14 July 2026
+
+Problem
+
+Right now, any requisition over any dollar amount goes through one
+approval: a quartermaster signs off and it ships. For anything over
+$2,000 — a new pack of hazmat-rated suits, a batch of grapple lines —
+that's one person's judgment on a fairly large purchase, and Halloran's
+asked more than once for a second set of eyes on the big-ticket items.
+
+Proposal
+
+Add a second approval step for requisitions over $2,000: a
+quartermaster still approves first, then their manager signs off
+before anything ships. That's the whole ask.
+
+And while we're building the approval step, we should also let a
+quartermaster route around a slow approver if they haven't responded
+in 48 hours, and add a dashboard showing every pending approval across
+all three sites so nobody has to ask around for status, and let a
+handler see where their own requisition is stuck without going through
+Halloran directly, and honestly — if we're building all of that, this
+could eventually just replace the weekly gear-cage spreadsheet Halloran
+keeps by hand.
+
+Owner
+
+Halloran's team, Supply.
+
+Success measure
+
+Fewer requisitions over $2,000 that ship without a second sign-off.
+We'll know it's working when that number is zero.
+
+Open questions
+
+How much of the above ships together versus in phases — TBD.

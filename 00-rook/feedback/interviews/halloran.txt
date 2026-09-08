@@ -1,0 +1,54 @@
+Recorded call — console redesign research
+Interviewer: Sofia Marino, Product Design
+Participant: Halloran, handler for Sgt. Bulwark, also runs the gear cage
+5 September 2026, 38 minutes (transcript excerpt)
+
+SOFIA: Thanks for making time, Halloran. I know you're mostly on the Supply side of the house, but I'm actually here about the console — the coverage and callout side. I wanted to get your take since you use both.
+
+HALLORAN: Sure, sure. Before we get into that though, while I've got someone from product on the line — the requisition approval flow is a mess and I want that on the record.
+
+SOFIA: I hear you, and I do want to get to that if we have time, but can we start with the console? Just five minutes on that side, then I promise we'll talk Supply.
+
+HALLORAN: Fine. Five minutes. Console's fine. I don't live in it, Bulwark's a pretty steady responder, doesn't need a lot of babysitting. What do you want to know.
+
+SOFIA: Anything that slows you down when you do open it — filters, layout, anything.
+
+HALLORAN: Nothing major. I check it maybe twice a shift. It does what it needs to do. Can we talk about requisitions now.
+
+SOFIA: One more — do you use the coverage view or go straight to Bulwark's profile?
+
+HALLORAN: Straight to the profile, always, I don't care what anyone else is doing. Okay. Requisitions.
+
+SOFIA: Go ahead.
+
+HALLORAN: The approval chain on a requisition takes too long and nobody can tell me why. I put in for a replacement vest plate three weeks ago — cracked one, not cosmetic, a real crack — and it sat waiting on a quartermaster signature for eleven days. Eleven days is a long time to have a responder in the field with degraded plate and nobody above me seems to think that's urgent.
+
+SOFIA: That does sound urgent. Is there a way to flag something as time-sensitive in the current flow?
+
+HALLORAN: There's a priority field. I set it. Doesn't seem to change anything about how fast it actually moves, it just sits in the same queue as somebody ordering a spare set of boot laces. That's the whole complaint. One queue, everything in it, doesn't matter if it's laces or plate.
+
+SOFIA: That's useful, thank you. What about the maintenance scheduling side — does that feel accurate to you, timed well against when Bulwark's actually available?
+
+HALLORAN: Mostly. It's gotten smarter about not booking maintenance into a week he's likely to be out, I'll give it that. It used to schedule a boot resole for the middle of a callout-heavy stretch and that was its own headache. Hasn't done that in a while. Small thing but I noticed.
+
+SOFIA: Good to know that's landed. Any issues with field failure reports — filing them, or hearing back on them?
+
+HALLORAN: Filing's fine, it's quick, three fields and a photo. Hearing back is the problem — I file a failure report and it goes into a void. I don't know if anyone reads it, I don't know if it changed anything, I just know the item's history shows the report and that's it. I'd like to know it did something.
+
+SOFIA: That's a fair ask, I'll make sure that gets to the right team even though it's not mine directly. Anything else on the Supply side before I let you go?
+
+HALLORAN: The equipment catalog search is bad. If I don't know the exact item name I'm not finding it. I typed "plate" the other week looking for the vest plate and got forty results, half of them unrelated, and had to scroll. Category filters would help. That's it, that's my list, I've been sitting on it a while.
+
+SOFIA: This has all been really useful, genuinely, thank you for laying it out like that. Before we close — anything at all on the console side I didn't ask about? Even something small.
+
+HALLORAN: [pause] One thing, and it's not really a complaint so much as I noticed it. Bulwark mentioned a callout went to someone else before he'd even got his boots on, a few weeks back. Didn't think much of it at the time, these things happen. You asked, so there it is.
+
+SOFIA: I appreciate you mentioning it. Do you know roughly when that was?
+
+HALLORAN: Sometime in August, I couldn't tell you the date. Like I said, didn't think much of it. Are we done, I've got a delivery to sign for.
+
+SOFIA: We're done, thank you so much for your time, Halloran, this was genuinely useful on both fronts.
+
+HALLORAN: Get someone to fix the requisition queue.
+
+[END OF EXCERPT]

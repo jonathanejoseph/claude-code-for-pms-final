@@ -1,0 +1,7 @@
+Ticket #: T-016
+Filed by: Owen Bramwell (handler)
+Responder: Sgt. Falkirk
+Date: 28 August 2026
+Severity: Low (assigned by filer)
+
+Sgt. Falkirk had a slow first half of August, picked up briefly, and has gone quiet again this past week. I don't have a clean way to describe the pattern beyond "on and off," which isn't much of a bug report, I know, but I wanted it logged since he's asked me about it twice now.

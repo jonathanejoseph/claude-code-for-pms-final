@@ -1,0 +1,99 @@
+Slack export — #dispatch-team
+Rook Industries workspace
+Exported 2 September 2026 by n.hoffmann
+
+
+--- Thursday, 13 August 2026 ---
+
+[08:41] Marcus Oyelaran
+4.2 is out. Went clean, no rollback, no overnight pages. Nice work everyone.
+
+[09:02] Sofia Marino
+filter persistence is live! small thing, been asked for forever
+
+
+--- Friday, 14 August 2026 ---
+
+[11:20] Marcus Oyelaran
+quick q on the change to who gets pinged — was that meant to apply to responders
+who've been turning jobs down too, or only everyone else? the config doesn't
+distinguish between them as far as i can tell
+
+[11:22] Marcus Oyelaran
+not saying it's wrong, just want to know if it was a decision or if it just fell out
+that way
+
+[11:48] Wen Li
+🙏 on PTO until the 24th, I'll look when I'm back
+
+
+--- Tuesday, 18 August 2026 ---
+
+[07:52] Nadia Hoffmann
+Heads up — callout-related tickets are running about 3x normal since Wednesday.
+Two themes. One is responders saying their phone never even goes off anymore. The
+other is their phone buzzes, they grab it, and by the time they've got a thumb on
+the screen it's already gone to somebody else.
+
+[07:55] Nadia Hoffmann
+The second one I can explain, we shortened the timeout. The first one I can't.
+
+[08:30] Nadia Hoffmann
+Can someone pull the trend on how often responders are actually answering lately?
+Trying to get a read on whether this is really as bad as the tickets make it look.
+
+[09:14] Marcus Oyelaran
+I can get you something rough but it won't be the real weekly numbers
+
+[10:02] Nadia Hoffmann
+rough is fine, just want to know the direction
+
+
+--- Wednesday, 19 August 2026 ---
+
+[16:20] Priya Raghunathan
+Catching up on this thread. Some of this is going to be seasonal — August is always
+soft and we see this every year. Let's not spiral before we have numbers in front of
+us. I'd rather we look at this properly in September than react to two weeks of
+tickets.
+
+[16:24] Nadia Hoffmann
+Fair. I'll keep tracking the split between the two themes so we have it.
+
+
+--- Friday, 21 August 2026 ---
+
+[17:40] Priya Raghunathan
+Last day. Handover doc is in the Dispatch folder. It's been a good fourteen months —
+thank you all, genuinely. Marcus has my number if anything catches fire.
+
+[17:44] Sofia Marino
+👋💛
+
+[17:51] Marcus Oyelaran
+Thanks Priya. Go rest.
+
+
+--- Wednesday, 26 August 2026 ---
+
+[09:33] Nadia Hoffmann
+Ticket volume still elevated. Not getting worse, not getting better. Split is
+roughly two thirds "phone never goes off" to one third "gone before I could
+answer."
+
+[09:40] Nadia Hoffmann
+One of the handlers emailed me directly today, which never happens.
+
+
+--- Friday, 28 August 2026 ---
+
+[15:12] Marcus Oyelaran
+New PM starts Monday. Let's give them a week to get up to speed and then regroup
+properly on the 4.2 picture — I don't want to hand them a conclusion before they've
+had a chance to look at it themselves.
+
+[15:19] Nadia Hoffmann
+Works for me. I'll have the ticket breakdown ready.
+
+[15:44] Wen Li
+Back from PTO and catching up on 700 messages. Ping me directly if something needs me.

@@ -1,0 +1,41 @@
+review-checklist — scheduled run
+Started: 2026-10-13 03:00 UTC
+Finished: 2026-10-13 03:01 UTC
+Source: 06-sidekicks/briefs/ (4 files)
+
+bulk-callout.txt
+  owner named ................. NO — flagged
+  success measure .............. yes
+  scope stays bounded .......... yes
+  problem stated before fix .... yes
+  -> 1 flag: no owner named. Ends on "nobody's picked it up yet" —
+     flagging it for a future owner isn't the same as naming one.
+
+routing-override-audit-log.txt
+  owner named ................... yes (Marcus's team)
+  success measure .............. NO — flagged
+  scope stays bounded .......... yes
+  problem stated before fix .... yes
+  -> 1 flag: no success measure. Says what gets logged and where it
+     shows up, never how anyone would know it's working.
+
+requisition-approval-chains.txt
+  owner named ................... yes (Halloran's team, Supply)
+  success measure ............... yes
+  scope stays bounded ........... NO — flagged
+  problem stated before fix .... yes
+  -> 1 flag: scope grows mid-document. Opens as one approval step
+     ("that's the whole ask"), by the next paragraph has picked up a
+     routing-around rule, a cross-site dashboard, handler visibility,
+     and a spreadsheet replacement.
+
+handler-phone-app.txt
+  owner named ................... yes (Sofia)
+  success measure ............... yes
+  scope stays bounded ........... yes
+  problem stated before fix .... NO — flagged
+  -> 1 flag: solution before problem. Opens with the app and what it
+     would do; the actual problem (Aunt Dot finding out late) doesn't
+     appear until the second section.
+
+4 briefs checked, 4 flagged, 1 flag each.

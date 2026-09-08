@@ -1,0 +1,46 @@
+Recorded call — console redesign research
+Interviewer: Sofia Marino, Product Design
+Participant: Ambrose (handler for Captain Vantage)
+2 September 2026, 34 minutes (transcript excerpt)
+
+SOFIA: Thanks for making time. I know evenings are awkward for you.
+
+AMBROSE: Not at all. The household is quiet until eight or so. Where would you like to begin.
+
+SOFIA: Start wherever's easiest. Walk me through what the console looks like on a normal night.
+
+AMBROSE: Very well. I keep it open on the second monitor in the study, always on the coverage view rather than the incident feed — I find the incident feed tells you what's happening elsewhere, and I only care what's happening to us. I have a filter set for the young master's capability tags, structural-entry and flight, so I'm not wading through listings that have nothing to do with him.
+
+SOFIA: And that filter — do you have to rebuild it each time you open the console?
+
+AMBROSE: Until this month, yes, every single time, which I raised more than once. I was told it was coming. It arrived with the August release and I noticed within the hour. Small thing to say out loud, but it was the difference between opening the console and immediately being at work, versus opening it and doing five minutes of housekeeping before I could actually look at anything. I'd put that in the report if reports still went anywhere.
+
+SOFIA: They do, for what it's worth — that's part of why I'm calling. What else changed for you with the persistence fix, anything you didn't expect?
+
+AMBROSE: Only that I trust it less than I'd like. Twice now it's reverted to the default view after what I assume was some manner of update on your end, and I didn't notice until I'd been looking at the wrong filter for a quarter of an hour. I'd rather it warned me the filter had reset than simply reset it.
+
+SOFIA: That's useful, thank you. Can I ask about the layout itself — is there anything you're hunting for that you feel should be closer to hand?
+
+AMBROSE: The capability tag legend. It sits in a drawer off the responder detail panel and I open it perhaps once a fortnight, when a new tag appears and I don't recognize it. Cold-weather I understood. Aquatic I understood. There was one in the spring I had to look up twice before it stuck. I don't say this is urgent. I say it because you asked what I hunt for, and that's genuinely it.
+
+SOFIA: Fair. How are you finding the coverage view generally — enough at a glance, or are you clicking through to individual incidents more than you'd like?
+
+AMBROSE: More than I'd like, but I don't know that there's a fix for it that doesn't clutter the view for everyone else. I click through mostly to confirm status on something I already suspect is a problem. Which — I should mention this while we're on the topic of problems, since I doubt it'll come up again and it's been sitting with me.
+
+SOFIA: Please, go ahead.
+
+AMBROSE: Two weeks ago the young master was halfway into the suit — coat on, one boot on — when it went to somebody else. I heard about it after the fact, from him, not from the console, because by the time I'd have noticed anything the listing had already moved on. It wasn't the first time this year, but it was the closest-run I've seen. I don't say that to complain about the software generally. I say it because if the console is being redesigned, I would want whatever tells me a callout is live to be harder to miss, not easier.
+
+SOFIA: That's genuinely helpful, and I'm sorry that happened. Can you tell me more about the timing of it — how far into getting ready he was when it moved on?
+
+AMBROSE: I couldn't give you seconds. He tells me it felt fast. I'll say only that in the years I've done this, there was a period where a slower-arriving response of his still landed him the job more often than not, and lately that doesn't seem to hold the way it used to. I notice it, I don't dwell on it. It isn't really my place to guess at why. I only see the boot half on.
+
+SOFIA: Understood, and thank you for flagging it regardless — that's exactly the kind of thing I want to hear even when it's not strictly about the console. Last thing, and then I'll let you go — if you could change one thing about the console tonight, what would it be?
+
+AMBROSE: Larger text on the status badge. My eyes aren't what they were, and at a glance I sometimes cannot tell engaged from available without leaning in. It's a small vanity of a request next to the other thing, but you did ask.
+
+SOFIA: I did, and it's a fair one — I'll note it. Thank you, Ambrose, this has been really helpful.
+
+AMBROSE: You're entirely welcome. Do let me know if the filter persistence proves reliable. I'd rather trust it than keep double-checking it.
+
+[END OF EXCERPT]

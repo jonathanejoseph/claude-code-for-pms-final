@@ -1,0 +1,44 @@
+Bulk Callout — one-pager
+Product, Dispatch
+12 January 2026
+
+Problem
+
+When something big happens — a building evacuation, a multi-block
+search, anything that needs more than one responder — a handler right
+now sends callouts the same way they'd send one: pick a responder,
+wait, pick the next. Halloran mentioned it too, on the Supply side,
+when a shift needs several people kitted out at once. For a handler
+managing more than one responder, or covering for another handler
+who's out, that's slow exactly when speed matters most.
+
+Proposal
+
+Let a handler select several responders from the console and send them
+all the same callout in a single action. Each responder still gets
+their own accept/decline, on their own phone, same as today — this
+isn't a group message, it's the existing callout flow sent to more
+than one person at once.
+
+Success measure
+
+Fewer support tickets mentioning a handler who "just started calling
+people directly" during a multi-responder incident. Time-to-full-
+coverage on a multi-responder callout should drop, though we don't
+have a clean baseline for it yet — worth getting one before this
+ships.
+
+Scope
+
+Only the existing callout flow, sent to more than one responder. No
+group chat between responders, no bulk requisitions, no change to how
+any individual responder's callout is scored or ranked. If a table
+needs to send different jobs to different people, that's still one
+callout at a time — this is only for "the same job, several people."
+
+Open questions
+
+Flagging this for whoever picks it up next quarter. Console changes
+will need Sofia's input on the multi-select interaction, and
+engineering will need to scope the actual send logic — noting it here
+so it isn't lost, but nobody's picked it up yet.

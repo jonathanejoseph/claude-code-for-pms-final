@@ -1,0 +1,38 @@
+Handler Phone App — one-pager
+Product, Dispatch
+2 August 2026
+
+Proposal
+
+We should build a phone app for handlers. Right now the console is
+desktop-only, which means a handler is tied to their desk to see
+anything about their responder. A phone app would give handlers push
+notifications the moment something changes, a live view of their
+responder's current status, and one-tap contact straight from the
+notification — call or message, no need to open the console first.
+
+What this solves
+
+Aunt Dot — a handler in the interview pile — described finding out her
+responder had declined a callout only when she happened to glance at
+the console later that evening. A phone app would put that same
+information in front of her the moment it happens, instead of whenever
+she next happens to look.
+
+Owner
+
+Sofia, exploring for Q4 alongside her console work. Not yet staffed
+for a build.
+
+Success measure
+
+Fewer handlers reporting they missed a status change because they
+weren't at the console. No baseline number yet — that's the metric to
+start tracking once this moves past exploration.
+
+Scope
+
+Just the three things above: notifications, status view, one-tap
+contact. Nothing from Supply, nothing from the console's activity log
+— a phone app that mirrors the console's other features is a second
+project, not this one.

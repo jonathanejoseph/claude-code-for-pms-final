@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.zip
+
+# your own scratch work
+scratch/

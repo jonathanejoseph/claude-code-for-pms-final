@@ -1,0 +1,33 @@
+Routing Override Audit Log — one-pager
+Product, Dispatch
+5 March 2026
+
+Problem
+
+When a handler manually overrides Dispatch's routing — picks someone
+other than the responder we recommended — there's no record of it
+anywhere. No who, no when, no why. Nadia's team has hit this more than
+once: a complaint comes in about a responder who was passed over, and
+there's no way to even confirm an override happened, let alone why.
+
+Proposal
+
+Log every manual override: who made it, when, which responder they
+picked instead of the recommended one, and a short reason if they
+typed one. Surface it in the console's existing activity view, next to
+the callout it belongs to.
+
+Owner
+
+Marcus's team builds it. Sofia has already mocked the activity-view
+addition — it's a small addition to a screen that exists.
+
+Scope
+
+Overrides only. Not a general audit log for every action in the
+console — just the one decision that currently leaves no trace.
+
+Next steps
+
+Marcus's team can pick this up once profile redesign wraps. Small,
+contained, ready to build.

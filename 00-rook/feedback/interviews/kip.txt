@@ -1,0 +1,42 @@
+Recorded call — console redesign research
+Interviewer: Sofia Marino, Product Design
+Participant: Kip, handler for Meteor Mite and The Gale
+4 September 2026, 29 minutes (transcript excerpt)
+
+SOFIA: Hey Kip, thanks for hopping on. Can you set the scene for me — what's your actual desk look like?
+
+KIP: Three monitors, headset on basically the whole shift even when nobody's talking to me, and the console's always up on the center screen. Left screen is usually just a stream running, right screen is whatever else I'm doing between callouts. So the console's competing for my attention with two other bright rectangles, is basically the situation.
+
+SOFIA: That's a great way to put it. Does it hold up against that competition?
+
+KIP: Mostly, yeah, it's fine, it's clear. But I will say this every time anyone from Rook talks to me and I'm going to say it again now — dark mode. I am begging. It's 11pm, I've got two other screens dimmed down, and the console is just this wall of white light in the middle of my face. I've tried the OS-level color filter trick, it makes the whole thing look sick, like everything's got a fever. I just want an actual dark theme built in.
+
+SOFIA: Noted, again, I promise it's actually logged. Beyond the brightness, does the layout itself work for you at that hour?
+
+KIP: The layout's fine. Two responders means I've basically always got two coverage cards up side by side and that part's good, I like that I don't have to tab between them. What's not fine is that the two cards can tell wildly different stories and there's nothing on the screen that helps me make sense of why.
+
+SOFIA: Say more about that — different stories how?
+
+KIP: So — Meteor Mite's been texting me all week asking if something's broken because it's so quiet. Nothing coming in, phone just sitting there. And The Gale hasn't stopped, like, at all, same week, same city. I don't know what to tell either of them. Mite thinks Mite's been forgotten. Gale's exhausted. I'm looking at two cards on the same screen that might as well be two different products.
+
+SOFIA: That's really striking, thank you for putting numbers — well, not numbers, but putting it that concretely. Is that a new pattern, or has it always been kind of lumpy like that?
+
+KIP: It's always been a little lumpy, that's just how the work is, some responders get busier weeks than others. But this felt different, like all the way to one side or all the way to the other, no middle. I mentioned it to Mite, actually, just — hang in there, it'll pick up — because what else do you say. I don't have anything better than that.
+
+SOFIA: That's fair. When you're managing two cards like that, is there anything the console could surface that would help you make sense of the gap, even if it's just at a glance?
+
+KIP: Honestly? I don't even know what I'd want it to tell me. I just want it to look less like a coincidence when I'm staring at it at midnight and one card's dead quiet and the other's on fire. Maybe that's not a console thing, maybe that's just — I don't know, whatever's underneath it. I'm not the person to ask about that part. I just watch the cards.
+
+SOFIA: That's really helpful context regardless. Switching gears a little — how do you use the filter and search on your end, with only two responders to track?
+
+KIP: Barely use it, honestly, two is small enough I just eyeball both cards. I know other handlers with bigger rosters live in the filters. For me it's more like — I want the alert sound to be different for each of them, because right now Mite and Gale both just go "bing" and I have to actually look to know which one. That trips me up more than I'd like to admit at 2am.
+
+SOFIA: That's a great one, I hadn't heard that specific ask yet. Last thing — if you got exactly one thing from this redesign, what is it?
+
+KIP: Dark mode. I will say it as many times as you let me. Everything else is nice to have. Dark mode is the thing that actually changes my night.
+
+SOFIA: Duly noted, for the record, loudly. Thanks, Kip, this was great.
+
+KIP: Anytime. Tell whoever's building it dark mode has a fan club and I'm the president.
+
+[END OF EXCERPT]
