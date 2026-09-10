@@ -73,6 +73,14 @@ Since then, acceptance is down and tickets are up (~3x normal), splitting into t
 - **Ticket volume is a misleading proxy here.** Nightwell and Ironvale generated the most "gone quiet" tickets, but their actual offer volume is flat-to-rising in the data. Vesper and Meteor Mite — two of the four actually collapsing to zero — never filed a ticket at all; they only surfaced via Sofia's console-redesign interviews.
 - Not yet available anywhere in the source material: time-to-accept and coverage-gap data (the other two headline metrics), and any geographic/proximity data to directly confirm the horizon-cutoff theory rather than infer it from timing + code. Worth asking Ravi for both, and Marcus flagged mid-August that the numbers he could pull fast "won't be the real weekly numbers" — worth confirming with him whether this CSV is that rough pull or Ravi's official report before quoting exact figures externally.
 
+**Interviews and tickets now both fully read (10 Sep 2026) — each channel misses different people.** The 25 tickets (13 Aug–5 Sep) split into three groups: 16 pure "gone quiet" reports (naming Ashgrove, Nightwell, The Undertow, Ironvale, Halfmoon, The Longcast, Stormwrack, Sgt. Falkirk, Farlight, The Drift), 5 pure near-misses, and 4 (Nightwell, The Undertow, Cindermark, Ironvale) describing the worst pattern — weeks of silence, then losing the one offer that finally came. Ticket severity is self-assigned and unreliable: three of those four worst-pattern tickets were rated Low/Medium, not High.
+
+**The ticket footprint is wider than the CSV's four collapsed responders.** Eight named responders in the tickets — Ashgrove, Longcast, Ironvale, Halfmoon, Stormwrack, Cindermark, Drift, Falkirk — never came up in any of Sofia's four interviews and haven't been checked individually against the CSV. Worth asking Ravi whether they're actually stuck like Vesper/Farlight/Undertow/Meteor Mite, or just riding out the temporary post-4.2 dip. Conversely, Vesper and Meteor Mite (two of the four confirmed-collapsed responders) filed zero tickets between them — the interviews are the only reason they're on anyone's radar.
+
+**Halloran (Bulwark's handler) downplayed his responder's near-miss in interview** ("didn't think much of it") in a way that doesn't match how every other handler described the same kind of event in a ticket — worth treating his self-assessed severity with caution generally, not just on this point.
+
+**Of the console complaints raised in interviews, the uneven/collapsing offer volume is the most urgent to act on** — unlike text size, dark mode, or filter persistence, it's an active, still-compounding bug with no self-correction, not a UI preference.
+
 **Q3 roadmap** (`00-rook/company/roadmap-q3.pdf`, owner Helen): committed for 4.2 — the routing/timeout changes above and "Availability Confidence" (a confidence score next to stated availability, driven by support escalations — not yet shipped, worth checking status). Committed for 4.3 — Supply's requisition approval chains (Halloran's interview flags this queue as broken today: one FIFO queue regardless of priority flag). Q4 exploring: handler phone app (Supply), shared cover between responders (Dispatch).
 
 **Other open threads from research/tickets, not yet triaged:** console dark mode (repeatedly requested — Kip), filter persistence occasionally reverting without warning (Ambrose), larger status-badge text (Ambrose, Aunt Dot), per-responder alert sounds for handlers managing multiple responders (Kip), Supply's failure-report and catalog-search complaints (Halloran) — Supply-side, not mine to fix but worth relaying.
@@ -88,6 +96,6 @@ Since then, acceptance is down and tickets are up (~3x normal), splitting into t
 
 - `company/` — about-rook, product one-pagers, release history, Q3 roadmap, glossary, team directory (`who-does-what.xlsx`), handoff doc, Slack export
 - `code/dispatch-routing/` — the actual routing/offer/history logic referenced above
-- `feedback/tickets/` — 25 support tickets, mostly Aug–Sep 2026, both handler- and responder-filed
-- `feedback/interviews/` — 4 console-redesign research transcripts (Sofia Marino)
+- `feedback/tickets/` — **problem tickets**: 25 support tickets (`t-001.txt`–`t-025.txt`), mostly Aug–Sep 2026, both handler- and responder-filed
+- `feedback/interviews/` — **customer interviews**: 4 console-redesign research transcripts, Sofia Marino, all handler-side (`ambrose.txt`, `aunt-dot.txt`, `halloran.txt`, `kip.txt`)
 - `data/callout-history.csv` — weekly pings-sent vs. pings-taken per responder, back to late June 2026
